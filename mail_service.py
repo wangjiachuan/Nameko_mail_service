@@ -1,4 +1,4 @@
-#utf-8
+# -*- coding: utf-8 -*- 
 from nameko.events import EventDispatcher, event_handler
 from mandrill_send_email import *
 
